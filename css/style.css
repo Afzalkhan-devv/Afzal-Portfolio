@@ -84,11 +84,7 @@ button:focus {
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 .section_gap {
-<<<<<<< HEAD
   padding: 100px 0; }
-=======
-  padding: 200px 0; }
->>>>>>> 497eb47 (first commit)
   @media (max-width: 1199px) {
     .section_gap {
       padding: 80px 0; } }
@@ -2440,19 +2436,11 @@ h6 {
 .about_area {
   position: relative; }
   .about_area .main_title {
-<<<<<<< HEAD
     margin-bottom: 20px; }
     .about_area .main_title p {
       margin-bottom: 20px; }
   .about_area .primary_btn {
     margin-top: 10px; }
-=======
-    margin-bottom: 0px; }
-    .about_area .main_title p {
-      margin-bottom: 20px; }
-  .about_area .primary_btn {
-    margin-top: 20px; }
->>>>>>> 497eb47 (first commit)
   .about_area .about_img {
     position: relative;
     right: 250px; }
@@ -2471,11 +2459,7 @@ h6 {
 /* Start Barand Area css
 ============================================================================================ */
 .brand_area {
-<<<<<<< HEAD
   padding-bottom: 60px; }
-=======
-  padding-bottom: 170px; }
->>>>>>> 497eb47 (first commit)
   @media (max-width: 1199px) {
     .brand_area {
       padding-bottom: 80px; } }
@@ -2485,11 +2469,7 @@ h6 {
 /* Start Features Area css
 ============================================================================================ */
 .features_area {
-<<<<<<< HEAD
   padding-bottom: 0px; }
-=======
-  padding-bottom: 170px; }
->>>>>>> 497eb47 (first commit)
   @media (max-width: 1199px) {
     .features_area {
       padding-bottom: 50px; } }
@@ -2542,11 +2522,7 @@ h6 {
   .single-brand-item .d-table-cell {
     vertical-align: middle; }
   .single-brand-item img {
-<<<<<<< HEAD
     max-width: 650px;
-=======
-    max-width: 80px;
->>>>>>> 497eb47 (first commit)
     margin: 0 auto;
     -webkit-transition: all 0.4s ease 0s;
     -moz-transition: all 0.4s ease 0s;
